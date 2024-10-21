@@ -46,8 +46,8 @@ panorama_8D17D475_99C1_F4CC_41C8_605C5674B146.label = L12 - View Boy'sBedroom
 panorama_8D19B1E8_99CF_AFC3_41DD_F2F0F6D5FBD3.label = L12 - View 2ndFloorCorridor
 panorama_8D1D308F_99C0_AC5D_4190_F76078A8154A.label = L12 - View MasterBedroom
 panorama_8D736418_99CF_9443_41E0_90607DFF7498.label = L12 - View HomeOffice
-panorama_8D75348C_99C0_945C_41E0_F658E1F29D1D.label = L12 - View Girl'sBedroom
 panorama_8D8C76EE_99C1_75DF_41DF_6D687EFD3B54.label = L12 - View Elevasi
+panorama_BA0ACBF8_AFB8_853D_41D2_AABA188E094A.label = L12 - View Girl'sBedroom
 
 ## Action
 
