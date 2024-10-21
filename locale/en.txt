@@ -5,7 +5,7 @@
 ### Description
 
 ### Title
-tour.name = 360 Fontis Lake Villa
+tour.name = 360 Fontis Lake Villa L12
 
 ## Skin
 
@@ -19,11 +19,11 @@ HTMLText_C03947BF_DD67_2B2B_41E1_8CD5E27116F1.html = <div style="text-align:left
 HTMLText_CFB18C6B_DBA3_7D2B_41D8_7879F0622A1E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:35px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:35px;"><B>{{TITLE}}</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:22px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;"><B>{{Subtitle}}</B></SPAN></SPAN></DIV></div>
 
 ### Label
-Label_3CC6D55B_2DB2_FFDC_41AC_1D1C3B32F3B3.text = DiningRoom-Backyard
+Label_3CC6D55B_2DB2_FFDC_41AC_1D1C3B32F3B3.text = DiningRoom
 Label_3CC6D55B_2DB2_FFDC_41BE_34D832D596B9.text = Home Office
 Label_3CC6E55B_2DB2_FFDC_41BC_BB4F29391AB1.text = 2nd Floor Corridor
-Label_3CC7355A_2DB2_FFDC_41C3_D6BB985C1F26.text = Elevated
-Label_3CC7A55A_2DB2_FFDC_41C0_2D460221E41E.text = LivingRoom-Pantry
+Label_3CC7355A_2DB2_FFDC_41C3_D6BB985C1F26.text = Elevatain
+Label_3CC7A55A_2DB2_FFDC_41C0_2D460221E41E.text = LivingRoom
 Label_3CC9355C_2DB2_FFD4_41B8_7DF728C3F9EB.text = Master Bedroom
 Label_3CC9F55C_2DB2_FFD4_41B7_D67F0141B725.text = Girl's Bedroorn
 Label_4C941264_425A_75E5_419B_792D9F72973E.text = ( 2KT )
