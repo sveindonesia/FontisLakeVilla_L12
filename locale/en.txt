@@ -50,8 +50,8 @@ panorama_DFE12C72_D1EF_7C93_41E3_73CD83AF7619.label = L12 - View HomeOffice
 panorama_DFEE76CE_D1E1_EDF3_41E6_2240A8E5559D.label = L12 - View MasterBedroom
 panorama_DFFE01D0_D1EF_67EF_41D3_1822E13E7B8E.label = L12 - View LivingRoom
 panorama_E865EBDB_D221_1B91_41D0_E4A6171C7D39.label = L12 - View Boy'sBedroom
-panorama_E9F60DC9_E7F7_7217_41C5_AD44479E3E77.label = L12 - View Entrance
 panorama_EA77EE56_E7F6_AE3D_41A7_D14198DA4A18.label = L12 - View DiningRoom
+panorama_FB1624D9_E851_E2CC_41AA_3F9CA1F545D7.label = L12 - View Entrance
 video_CB9BCF49_D37C_CB9C_41E6_3E24FF9D32CD.label = ClusterLakeVilla
 
 ## Action
